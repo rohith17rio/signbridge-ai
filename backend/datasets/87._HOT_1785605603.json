@@ -1,0 +1,405 @@
+{
+  "sample_id": "87._HOT_1785605603",
+  "label": "87._HOT",
+  "source": "BULK_IMPORT",
+  "frame_count": 66,
+  "created_at": "2026-08-01 23:03:23",
+  "sequence": [
+    {
+      "frame_number": 1,
+      "timestamp": 0.04,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 2,
+      "timestamp": 0.08,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 3,
+      "timestamp": 0.12,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 4,
+      "timestamp": 0.16,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 5,
+      "timestamp": 0.2,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 6,
+      "timestamp": 0.24,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 7,
+      "timestamp": 0.28,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 8,
+      "timestamp": 0.32,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 9,
+      "timestamp": 0.36,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 10,
+      "timestamp": 0.4,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 11,
+      "timestamp": 0.44,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 12,
+      "timestamp": 0.48,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 13,
+      "timestamp": 0.52,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 14,
+      "timestamp": 0.56,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 15,
+      "timestamp": 0.6,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 16,
+      "timestamp": 0.64,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 17,
+      "timestamp": 0.68,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 18,
+      "timestamp": 0.72,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 19,
+      "timestamp": 0.76,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 20,
+      "timestamp": 0.8,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 21,
+      "timestamp": 0.84,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 22,
+      "timestamp": 0.88,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 23,
+      "timestamp": 0.92,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 24,
+      "timestamp": 0.96,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 25,
+      "timestamp": 1.0,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 26,
+      "timestamp": 1.04,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 27,
+      "timestamp": 1.08,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 28,
+      "timestamp": 1.12,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 29,
+      "timestamp": 1.16,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 30,
+      "timestamp": 1.2,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 31,
+      "timestamp": 1.24,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 32,
+      "timestamp": 1.28,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 33,
+      "timestamp": 1.32,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 34,
+      "timestamp": 1.36,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 35,
+      "timestamp": 1.4,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 36,
+      "timestamp": 1.44,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 37,
+      "timestamp": 1.48,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 38,
+      "timestamp": 1.52,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 39,
+      "timestamp": 1.56,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 40,
+      "timestamp": 1.6,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 41,
+      "timestamp": 1.64,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 42,
+      "timestamp": 1.68,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 43,
+      "timestamp": 1.72,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 44,
+      "timestamp": 1.76,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 45,
+      "timestamp": 1.8,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 46,
+      "timestamp": 1.84,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 47,
+      "timestamp": 1.88,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 48,
+      "timestamp": 1.92,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 49,
+      "timestamp": 1.96,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 50,
+      "timestamp": 2.0,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 51,
+      "timestamp": 2.04,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 52,
+      "timestamp": 2.08,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 53,
+      "timestamp": 2.12,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 54,
+      "timestamp": 2.16,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 55,
+      "timestamp": 2.2,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 56,
+      "timestamp": 2.24,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 57,
+      "timestamp": 2.28,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 58,
+      "timestamp": 2.32,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 59,
+      "timestamp": 2.36,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 60,
+      "timestamp": 2.4,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 61,
+      "timestamp": 2.44,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 62,
+      "timestamp": 2.48,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 63,
+      "timestamp": 2.52,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 64,
+      "timestamp": 2.56,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 65,
+      "timestamp": 2.6,
+      "hands_count": 0,
+      "hands": []
+    },
+    {
+      "frame_number": 66,
+      "timestamp": 2.64,
+      "hands_count": 0,
+      "hands": []
+    }
+  ]
+}
