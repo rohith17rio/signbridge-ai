@@ -1,4 +1,4 @@
-# SIGNBRIDGE AI
+# SIGNSETU AI
 
 > **Real-Time Sign Language & Speech Communication Platform**  
 > *Phase 1: Production-Ready Foundation & Hardware/Service Infrastructure*
@@ -7,7 +7,7 @@
 
 ## 🌟 Overview
 
-**SIGNBRIDGE AI** is a real-time communication platform designed to connect **Deaf, Mute, and Hearing users** seamlessly. 
+**SIGNSETU AI** is a real-time communication platform designed to connect **Deaf, Mute, and Hearing users** seamlessly. 
 
 Phase 1 provides the **production-ready architecture**, UI/UX design system, hardware streaming pipelines (Webcam and Microphone), global state management, and a Python FastAPI backend server with real-time health monitoring and mock service contracts ready for Phase 2 AI prediction engines.
 
